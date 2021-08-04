@@ -1,6 +1,6 @@
 import requests
-phone = '+79517908945'
-passw = 'Oviplokos8'
+phone = ''
+passw = ''
 class FindCloneAPI:
     def __init__(self):
         self.phone = phone
